@@ -9,7 +9,8 @@
 * Test Rebase4
 * Test Rebase5
 * Test Rebase10
-* Test Rebase10.1*/
+* Test Rebase10.1
+* Test Rebase10.2*/
 public class MaxXor {
 	static MaxXor mx = new MaxXor();
 	private static final int N = 100002;
