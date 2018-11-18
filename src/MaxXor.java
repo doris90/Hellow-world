@@ -3,7 +3,8 @@
 /*
 * Get Maxor value from 2 values
 * Test confilict
-* Test Rebase*/
+* Test Rebase
+* Test Rebase2*/
 public class MaxXor {
 	static MaxXor mx = new MaxXor();
 	private static final int N = 100002;
