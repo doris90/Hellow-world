@@ -1,5 +1,4 @@
 
-//hhhhh
 public class MaxXor {
 	static MaxXor mx = new MaxXor();
 	private static final int N = 100002;
