@@ -2,8 +2,12 @@
 
 /*
 * Get Maxor value from 2 values
+<<<<<<< HEAD
 * Test confilict
 * Test Rebase*/
+=======
+* Test confilict*/
+>>>>>>> parent of f5aed86... rebase quzh
 public class MaxXor {
 	static MaxXor mx = new MaxXor();
 	private static final int N = 100002;
