@@ -2,8 +2,7 @@
 
 /*
 * Get Maxor value from 2 values
-* Test confilict
-* quzh*/
+* Test confilict*/
 public class MaxXor {
 	static MaxXor mx = new MaxXor();
 	private static final int N = 100002;
@@ -22,7 +21,7 @@ public class MaxXor {
 			tmp ^= a[i];
 			insert(tmp);
 		}
-		
+		//rebase
 		tmp = 0;
 		long ans = -INF;
 		
